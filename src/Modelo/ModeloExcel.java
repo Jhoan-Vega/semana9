@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clases;
+package Modelo;
 import java.io.*;
 import java.util.*;
 import javax.swing.*;
@@ -16,7 +16,7 @@ import org.apache.poi.xssf.usermodel.*;
 
 /**
  *
- * @author jhord
+ * @author ricardo
  */
 public class ModeloExcel {
     Workbook wb;

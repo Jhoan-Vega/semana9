@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clases;
-import clases.ModeloExcel;
-import clases.VistaExcel;
-import clases.ControladorExcel;
+package excel;
+import Modelo.ModeloExcel;
+import Vista.VistaExcel;
+import Controlador.ControladorExcel;
 
 /**
  *
- * @author jhord
+ * @author ricardo
  */
 public class GestionExcel {
 

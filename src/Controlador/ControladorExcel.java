@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clases;
+package Controlador;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
-import clases.VistaExcel;
-import clases.ModeloExcel;
+import Vista.VistaExcel;
+import Modelo.ModeloExcel;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author jhord
+ * @author ricardo
  */
 public class ControladorExcel implements ActionListener{
     ModeloExcel modeloE = new ModeloExcel();
