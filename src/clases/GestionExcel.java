@@ -10,7 +10,7 @@ import clases.ControladorExcel;
 
 /**
  *
- * @author ricardo
+ * @author jhord
  */
 public class GestionExcel {
 

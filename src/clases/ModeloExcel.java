@@ -16,7 +16,7 @@ import org.apache.poi.xssf.usermodel.*;
 
 /**
  *
- * @author ricardo
+ * @author jhord
  */
 public class ModeloExcel {
     Workbook wb;

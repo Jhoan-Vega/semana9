@@ -15,7 +15,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author ricardo
+ * @author jhord
  */
 public class ControladorExcel implements ActionListener{
     ModeloExcel modeloE = new ModeloExcel();
